@@ -129,7 +129,7 @@
   height: 100%;
   padding: 48px 40px;
   color: #fff;
-  background-position: center;  
+  background-position: center;
   background-size: cover;
 }
 
@@ -151,7 +151,7 @@
   line-height: 120%;
   text-decoration: underline;
   text-transform: uppercase;
-  text-underline-offset: 1px;
+  text-underline-offset: 3px;
 }
 
 .card__description {
